@@ -1,0 +1,4 @@
+Face detector: RetinaFace with ResNet50 as backbone
+Landmark detector: Dlib
+Number of landmarks: 30
+Emotion Network: ResNet56 RoI trained on FER-2013

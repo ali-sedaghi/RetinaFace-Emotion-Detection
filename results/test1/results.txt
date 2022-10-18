@@ -1,0 +1,45 @@
+Result for face 1:  Happy
+Angry        0.001910
+Disgust      0.000101
+Fear         0.008228
+Happy        0.873184
+Sad          0.009102
+Surprise     0.016571
+Neutral      0.090904
+
+Result for face 2:  Happy
+Angry        0.081154
+Disgust      0.000629
+Fear         0.053994
+Happy        0.703749
+Sad          0.009853
+Surprise     0.140964
+Neutral      0.009658
+
+Result for face 3:  Neutral
+Angry        0.011565
+Disgust      0.000008
+Fear         0.052187
+Happy        0.040070
+Sad          0.065271
+Surprise     0.002137
+Neutral      0.828763
+
+Result for face 4:  Surprise
+Angry        0.000758
+Disgust      0.000002
+Fear         0.007310
+Happy        0.000623
+Sad          0.000147
+Surprise     0.990319
+Neutral      0.000840
+
+Result for face 5:  Surprise
+Angry        0.089706
+Disgust      0.000244
+Fear         0.311187
+Happy        0.002984
+Sad          0.057707
+Surprise     0.418423
+Neutral      0.119749
+

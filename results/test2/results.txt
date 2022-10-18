@@ -1,0 +1,9 @@
+Result for face 1:  Angry
+Angry        0.954691
+Disgust      0.000350
+Fear         0.044767
+Happy        0.000027
+Sad          0.000075
+Surprise     0.000088
+Neutral      0.000003
+
