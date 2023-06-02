@@ -3,8 +3,16 @@
 Facial Expression Recognition with RetinaFace as face detector and Region of Interest (RoI) based ResNet as Emotion Detector
 
 ### Docs
-- [Presentation - EN](./docs/Report-EN.pptx)
-- [Technical Report - FA](./docs/Report-FA.pdf)
+- [Presentation - EN](https://raw.githubusercontent.com/ali-sedaghi/RetinaFace-Emotion-Detection/main/docs/Report-EN.pptx)
+- [Report - FA](https://raw.githubusercontent.com/ali-sedaghi/RetinaFace-Emotion-Detection/main/docs/Report-FA.pdf)
+
+
+### Wrapper on our other repositories
+- [Facial-Landmark-Detection](https://github.com/ali-sedaghi/Facial-Landmark-Detection)
+- [RoI-ResNet](https://github.com/ali-sedaghi/RoI-ResNet)
+- [FaceNet-FER2013](https://github.com/ali-sedaghi/FaceNet-FER2013)
+- [ResNet50-CIFAR10-FER2013](https://github.com/ali-sedaghi/ResNet50-CIFAR10-FER2013)
+- [AffectNet-Trainer](https://github.com/ali-sedaghi/AffectNet-Trainer)
 
 
 ### Classes
