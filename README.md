@@ -10,7 +10,7 @@ Facial Expression Recognition with RetinaFace as face detector and Region of Int
 ### Wrapper on our other repositories
 - [Facial-Landmark-Detection](https://github.com/ali-sedaghi/Facial-Landmark-Detection)
 - [RoI-ResNet](https://github.com/ali-sedaghi/RoI-ResNet)
-- [FaceNet-FER2013](https://github.com/ali-sedaghi/FaceNet-FER2013)
+- [Inception-ResNet-FER2013](https://github.com/ali-sedaghi/Inception-ResNet-FER2013)
 - [ResNet50-CIFAR10-FER2013](https://github.com/ali-sedaghi/ResNet50-CIFAR10-FER2013)
 - [AffectNet-Trainer](https://github.com/ali-sedaghi/AffectNet-Trainer)
 
